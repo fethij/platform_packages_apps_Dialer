@@ -62,4 +62,11 @@
 
     <string name="call_recording_audio_source_default">"4"</string>
 
+    <string name="call_recording_output_format_aac" translatable="false">AAC in MPEG-4 container</string>
+    <string name="call_recording_output_format_amr_wb" translatable="false">AMR-WB</string>
+    <string name="call_recording_output_format_wav" translatable="false">Uncompressed PCM in WAV container</string>
+
+    <string name="call_recording_audio_source_mic" translatable="false">MIC (1)</string>
+    <string name="call_recording_audio_source_voice_call" translatable="false">VOICE_CALL (4)</string>
+
 </resources>
